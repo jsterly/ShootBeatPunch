@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="177px" height="251px" viewBox="0 0 177 251" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>16_launcher_2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="16_launcher_2" transform="translate(-168.000000, -131.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g transform="translate(169.000000, 132.000000)">
+                <polyline id="Stroke-1" points="74.9848 248.7846 74.9848 0.5006 0.5008 0.5006"></polyline>
+                <line x1="74.9848" y1="48.5004" x2="37.7428" y2="48.5004" id="Stroke-3"></line>
+                <line x1="74.9848" y1="99.814" x2="56.5408" y2="99.814" id="Stroke-4"></line>
+                <line x1="74.9848" y1="149.4702" x2="65.7648" y2="149.4702" id="Stroke-5"></line>
+                <line x1="74.9848" y1="199.1264" x2="70.8868" y2="199.1264" id="Stroke-6"></line>
+                <polyline id="Stroke-7" points="99.815 248.7846 99.815 0.5006 174.299 0.5006"></polyline>
+                <line x1="99.815" y1="48.5004" x2="137.057" y2="48.5004" id="Stroke-9"></line>
+                <line x1="99.815" y1="99.814" x2="118.257" y2="99.814" id="Stroke-10"></line>
+                <line x1="99.815" y1="149.4702" x2="109.035" y2="149.4702" id="Stroke-11"></line>
+                <line x1="99.815" y1="199.1264" x2="103.911" y2="199.1264" id="Stroke-12"></line>
+            </g>
+        </g>
+    </g>
+</svg>

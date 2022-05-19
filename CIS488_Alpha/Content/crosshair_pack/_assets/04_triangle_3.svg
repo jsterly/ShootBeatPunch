@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="225px" height="194px" viewBox="0 0 225 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>04_triangle_3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_triangle_3" transform="translate(-144.000000, -135.000000)">
+            <g transform="translate(147.112000, 138.000000)">
+                <polygon id="Stroke-1" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" points="109 0 128.930411 34.3725399 172.337838 109.240116 198.247674 153.928024 218 188 178.824352 188 112.92994 188 39.1816848 188 0 188 19.7493077 153.937041 59.4078977 85.5346049 89.0756258 34.3665286"></polygon>
+                <path d="M113.1297,117.2932 C113.1297,115.1362 111.3837,113.3872 109.2237,113.3872 C107.0667,113.3872 105.3177,115.1362 105.3177,117.2932 C105.3177,119.4502 107.0667,121.1992 109.2237,121.1992 C111.3837,121.1992 113.1297,119.4502 113.1297,117.2932" id="Fill-1" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

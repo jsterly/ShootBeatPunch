@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="36px" viewBox="0 0 63 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>06_three-dots_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.318833333 9.68079487 0.318833333 9.68079487 10 0 10"></polygon>
+        <polygon id="path-3" points="1.92307693e-05 0.354444444 9.68155769 0.354444444 9.68155769 10.6085222 1.92307693e-05 10.6085222"></polygon>
+        <polygon id="path-5" points="0.0648846154 0.318833333 9.7445641 0.318833333 9.7445641 10 0.0648846154 10"></polygon>
+    </defs>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06_three-dots_1" transform="translate(-224.000000, -238.000000)">
+            <g transform="translate(224.000000, 238.000000)">
+                <g id="Group-3" transform="translate(0.000000, 26.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M9.68079487,5.15960256 C9.68079487,2.48639744 7.51323077,0.318833333 4.84002564,0.318833333 C2.16682051,0.318833333 -0.000743589744,2.48639744 -0.000743589744,5.15960256 C-0.000743589744,7.83280769 2.16682051,10.0003718 4.84002564,10.0003718 C7.51323077,10.0003718 9.68079487,7.83280769 9.68079487,5.15960256" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(27.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M9.68155769,5.48089259 C9.68155769,2.64927531 7.51399359,0.353262963 4.84078846,0.353262963 C2.16758333,0.353262963 1.92307693e-05,2.64927531 1.92307693e-05,5.48089259 C1.92307693e-05,8.31250988 2.16758333,10.6085222 4.84078846,10.6085222 C7.51399359,10.6085222 9.68155769,8.31250988 9.68155769,5.48089259" id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                </g>
+                <g id="Group-9" transform="translate(53.000000, 26.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <path d="M9.7445641,5.15960256 C9.7445641,2.48639744 7.57885897,0.318833333 4.90379487,0.318833333 C2.23244872,0.318833333 0.0648846154,2.48639744 0.0648846154,5.15960256 C0.0648846154,7.83280769 2.23244872,10.0003718 4.90379487,10.0003718 C7.57885897,10.0003718 9.7445641,7.83280769 9.7445641,5.15960256" id="Fill-7" fill="#FFFFFF" mask="url(#mask-6)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+FileVersion:2
+Type:Static
+Guid:DA56ECD7-4EE3-B67E-27E4-FE8DEDF0B69B
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/InfinityBladeAdversaries/Enemy/Enemy_Bear/baseBear.baseBear
+/Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/greaterSpider.greaterSpider
+/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/baseGruntling.baseGruntling
+/Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/master_Grunt.master_Grunt

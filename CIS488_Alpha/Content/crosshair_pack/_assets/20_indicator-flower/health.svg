@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>20_indicator-flower/health</title>
+    <desc>Created with Sketch.</desc>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="20_indicator-flower" transform="translate(-184.000000, -340.000000)" fill="#FFFFFF">
+            <path d="M193,340 C193.552285,340 194,340.447715 194,341 L194,346 L199,346 C199.552285,346 200,346.447715 200,347 L200,349 C200,349.552285 199.552285,350 199,350 L194,350 L194,355 C194,355.552285 193.552285,356 193,356 L191,356 C190.447715,356 190,355.552285 190,355 L190,350 L185,350 C184.447715,350 184,349.552285 184,349 L184,347 C184,346.447715 184.447715,346 185,346 L190,346 L190,341 C190,340.447715 190.447715,340 191,340 L193,340 Z" id="20_indicator-flower/health"></path>
+        </g>
+    </g>
+</svg>

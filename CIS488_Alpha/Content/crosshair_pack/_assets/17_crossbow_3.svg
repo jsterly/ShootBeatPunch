@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="172px" height="7px" viewBox="0 0 172 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>17_crossbow_3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="17_crossbow_3" transform="translate(-171.000000, -253.000000)">
+            <g transform="translate(174.000000, 253.000000)">
+                <line x1="0" y1="3.3802" x2="62.072" y2="3.3802" id="Stroke-1" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="103.4522" y1="3.3802" x2="165.5222" y2="3.3802" id="Stroke-3" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M85.3644,3.3958 C85.3644,1.9578 84.2004,0.7918 82.7604,0.7918 C81.3224,0.7918 80.1564,1.9578 80.1564,3.3958 C80.1564,4.8338 81.3224,5.9998 82.7604,5.9998 C84.2004,5.9998 85.3644,4.8338 85.3644,3.3958" id="Fill-5" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

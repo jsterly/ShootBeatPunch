@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="208px" height="208px" viewBox="0 0 208 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>03_separated_circle_1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03_separated_circle_1" transform="translate(-152.000000, -152.000000)">
+            <g transform="translate(153.000000, 153.000000)">
+                <path d="M205.712604,89.8991895 C199.865934,43.0105995 162.704259,5.8464195 115.813164,-0.0002505" id="Stroke-1" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M115.816421,205.712604 C162.70501,199.865934 199.866686,162.701754 205.713356,115.813164" id="Stroke-3" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0.000501,115.814166 C5.847171,162.702756 43.008846,199.866936 89.899941,205.713606" id="Stroke-5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M89.900442,0.000501 C43.009347,5.847171 5.847672,43.008846 0.001002,89.899941" id="Stroke-7" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M109.380324,102.857304 C109.380324,99.255114 106.459494,96.334284 102.857304,96.334284 C99.255114,96.334284 96.334284,99.255114 96.334284,102.857304 C96.334284,106.459494 99.255114,109.380324 102.857304,109.380324 C106.459494,109.380324 109.380324,106.459494 109.380324,102.857304" id="Fill-9" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

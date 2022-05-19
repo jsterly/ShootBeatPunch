@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>11_separated-cross_1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="crosshairs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="11_separated-cross_1" transform="translate(-224.000000, -224.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g transform="translate(224.000000, 224.000000)" id="Group">
+                <g transform="translate(32.001200, 31.999100) rotate(-315.000000) translate(-32.001200, -31.999100) translate(10.001200, 9.999100)">
+                    <line x1="6.83897383e-13" y1="43.8918" x2="10.971" y2="32.9178" id="Stroke-1"></line>
+                    <line x1="32.9181" y1="10.974" x2="43.8891" y2="-4.4408921e-15" id="Stroke-3"></line>
+                    <line x1="6.83897383e-13" y1="0.0009" x2="10.971" y2="10.9749" id="Stroke-5"></line>
+                    <line x1="32.9181" y1="32.9187" x2="43.8891" y2="43.8927" id="Stroke-7"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
